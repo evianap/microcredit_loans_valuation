@@ -70,7 +70,7 @@ Project Link: [https://github.com/evianap/microcredit_loans_valuation](https://g
 ## Acknowledgements
 
 * [Kevin Lee](https://github.com/kevinclee26/)
-* [Hitarth Smart]()
+* [Hitarth Smart](https://github.com/smarthitarth)
 * [Img Shields](https://shields.io)
 * [FastCapital360](https://www.fastcapital360.com/wp-content/uploads/2021/07/Graphic_01-9.jpg)
 
