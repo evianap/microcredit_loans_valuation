@@ -27,17 +27,17 @@ print(f"The total number of loans is",(number_of_loans))
 
 # # What is the total of all loans?
 
-Total_amt_of_loans_cost=sum(loan_costs)
+total_amt_of_loans_cost=sum(loan_costs)
 
 # # @TODO: Use the `sum` function to calculate the total of all loans in the list.
 # # Print the total value of the loans
-print(f"Loans costs amount to a grand total of $",Total_amt_of_loans_cost)
+print(f"Loans costs amount to a grand total of $",total_amt_of_loans_cost)
 
 
 # # YOUR CODE HERE!
 
 # # What is the average loan amount from the list?
-average_loan_cost=Total_amt_of_loans_cost/number_of_loans
+average_loan_cost=total_amt_of_loans_cost/number_of_loans
 # # @TODO: Using the sum of all loans and the total number of loans, calculate the average loan price.
 # # Print the average loan amount
 print(f"The average loan cost is $",average_loan_cost)
