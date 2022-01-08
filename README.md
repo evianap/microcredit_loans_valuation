@@ -70,7 +70,6 @@ Project Link: [https://github.com/evianap/microcredit_loans_valuation](https://g
 ## Acknowledgements
 
 * [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
 * [Kevin Lee](https://github.com/kevinclee26/)
 * [Hitarth Smart]()
 * [FastCapital360](https://www.fastcapital360.com/wp-content/uploads/2021/07/Graphic_01-9.jpg)
