@@ -69,9 +69,9 @@ Project Link: [https://github.com/evianap/microcredit_loans_valuation](https://g
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [Img Shields](https://shields.io)
 * [Kevin Lee](https://github.com/kevinclee26/)
 * [Hitarth Smart]()
+* [Img Shields](https://shields.io)
 * [FastCapital360](https://www.fastcapital360.com/wp-content/uploads/2021/07/Graphic_01-9.jpg)
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -81,5 +81,5 @@ Project Link: [https://github.com/evianap/microcredit_loans_valuation](https://g
 [license-url]:  -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/enriqueviana/
-[product-screenshot]: https://github.com/kevinclee26/sentiment_analysis_classification/blob/main/images/strengths_and_challenges.png?raw=true
+[product-screenshot]: https://www.fastcapital360.com/wp-content/uploads/2021/07/Graphic_01-9.jpg
 [product-url]: https://www.fastcapital360.com/wp-content/uploads/2021/07/Graphic_01-9.jpg
