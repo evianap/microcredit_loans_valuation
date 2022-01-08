@@ -9,7 +9,6 @@ Analyzes loan data, performs financial calculations and filters loans.
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/evianap/microcredit_loans_valuation/blob/main/microloans/images/Microloans.jpeg">
     <img src="https://github.com/evianap/microcredit_loans_valuation/blob/main/microloans/images/Microloans.jpeg" alt="Logo" width="80" height="80">
   </a>
 
