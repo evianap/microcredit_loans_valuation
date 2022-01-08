@@ -163,7 +163,6 @@ In this section, you will use a loop to iterate through a series of loans and se
     b. If the loan_price is less than or equal to 500 then append that loan to the `inexpensive_loans` list.
 3. Print the list of inexpensive_loans.
 """
-inexpensive_loans=[] ###creating empty list
 
 
 loans = [
@@ -193,21 +192,22 @@ loans = [
     },
 ]
 
-for data in loans:
-    if data.get("loan_price")<=500:
-        inexpensive_loans.append(data)
-
-print(inexpensive_loans)
 
 
 # # @TODO: Create an empty list called `inexpensive_loans`
 # # YOUR CODE HERE!
+inexpensive_loans=[] ###creating empty list
 
 # # @TODO: Loop through all the loans and append any that cost $500 or less to the `inexpensive_loans` list
 # # YOUR CODE HERE!
 
+for data in loans:
+    if data.get("loan_price")<=500:
+        inexpensive_loans.append(data)
+
 # # @TODO: Print the `inexpensive_loans` list
 # # YOUR CODE HERE!
+print(inexpensive_loans)
 
 
 # """Part 5: Save the results.
@@ -223,6 +223,21 @@ print(inexpensive_loans)
 #     https://docs.python.org/3/library/csv.html#writer-objects
 
 # """
+
+
+###libraries were already imported at the top of the code
+csvpath=Path("inexpensive_loans.csv")  ###creating file and determining location
+with open(csvpath,'w', newline='') as csvloans: ###enabling writing privileges and special characters, if any
+    csvwriter = csv.writer(csvloans) ###instruction to convert into csv strings
+    header = ["loan_price", "remaining_months", "repayment_interval", "future_value"] ###creating header
+    csvwriter.writerow(header)  ###writing header
+    for row in inexpensive_loans: ###iterating row by row from the list
+        csvwriter.writerow(row.values()) 
+
+
+print(csvpath) ###print path as confirmation
+
+
 
 # # Set the output header
 # header = ["loan_price", "remaining_months", "repayment_interval", "future_value"]
