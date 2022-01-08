@@ -13,7 +13,7 @@
   <p align="center">
     Automating Valuations and Purchasing Decisions
     <br />
-    <a href="https://github.com/evianap/microcredit_loans_valuation"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/evianap/microcredit_loans_valuation"><strong>Go to documents »</strong></a>
     <br />
   </p>
 </p>
