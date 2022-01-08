@@ -1,5 +1,4 @@
 # microcredit_loans_valuation
-Analyzes loan data, performs financial calculations and filters loans.
 <!-- Find and Replace All [repo_name] -->
 <!-- Replace [product-screenshot] [product-url] -->
 <!-- Other Badgets https://naereen.github.io/badges/ -->
@@ -9,7 +8,7 @@ Analyzes loan data, performs financial calculations and filters loans.
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="https://github.com/evianap/microcredit_loans_valuation/blob/main/microloans/images/Microloans.jpeg" alt="Logo" width="80" height="80">
+    <img src="https://github.com/evianap/microcredit_loans_valuation/blob/main/microloans/images/Microloans.jpeg" alt="Logo" width="240" height="120">
   </a>
 
   <h3 align="center">microcredit_loans_valuation</h3>
