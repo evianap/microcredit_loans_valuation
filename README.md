@@ -1,7 +1,5 @@
 # microcredit_loans_valuation
 <!-- Find and Replace All [repo_name] -->
-<!-- Replace [product-screenshot] [product-url] -->
-<!-- Other Badgets https://naereen.github.io/badges/ -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
 <!-- [![License][license-shield]][license-url] -->
 
